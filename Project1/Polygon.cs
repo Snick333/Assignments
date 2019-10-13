@@ -1,4 +1,4 @@
-﻿//Nick 
+﻿//Nick slaten
 static void Main(string[] args)
 {
     var square = new Square(length: 5);
