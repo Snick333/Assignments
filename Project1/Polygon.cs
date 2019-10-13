@@ -1,4 +1,5 @@
-﻿static void Main(string[] args)
+﻿//Nick 
+static void Main(string[] args)
 {
     var square = new Square(length: 5);
     DisplayPolygon(polygonType: "Square", polygon: square);
